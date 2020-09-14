@@ -1,0 +1,1 @@
+select script_url, symbol, operation, value, arguments from javascript where symbol="HTMLCanvasElement.toDataURL";
